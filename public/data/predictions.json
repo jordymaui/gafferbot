@@ -1553,8 +1553,8 @@
       "away_team": "Santa Clara",
       "league": "Primeira Liga",
       "match_date": "2026-04-04T16:00:00+00:00",
-      "home_win_pct": 69.4,
-      "draw_pct": 20.4,
+      "home_win_pct": 70.9,
+      "draw_pct": 18.9,
       "away_win_pct": 10.2,
       "predicted_score": "2-0",
       "confidence": "HIGH",
@@ -1585,18 +1585,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Alaves",
-      "away_team": "Osasuna",
-      "league": "La Liga",
-      "match_date": "2026-04-04T16:30:00+00:00",
-      "home_win_pct": 36.6,
-      "draw_pct": 44,
-      "away_win_pct": 19.3,
-      "predicted_score": "0-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "NEOM",
       "away_team": "Al-Fayha",
       "league": "Saudi Pro League",
@@ -1606,6 +1594,18 @@
       "away_win_pct": 35,
       "predicted_score": "1-2",
       "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Alaves",
+      "away_team": "Osasuna",
+      "league": "La Liga",
+      "match_date": "2026-04-04T16:30:00+00:00",
+      "home_win_pct": 36.6,
+      "draw_pct": 44,
+      "away_win_pct": 19.3,
+      "predicted_score": "0-0",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -2169,6 +2169,18 @@
       "draw_pct": 38.4,
       "away_win_pct": 26.3,
       "predicted_score": "0-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Sporting CP",
+      "away_team": "Arsenal",
+      "league": "Champions League",
+      "match_date": "2026-04-07T19:00:00+00:00",
+      "home_win_pct": 27.7,
+      "draw_pct": 29.6,
+      "away_win_pct": 42.7,
+      "predicted_score": "0-1",
       "confidence": "LOW",
       "model": "v3.3"
     },
@@ -2965,6 +2977,30 @@
       "model": "v3.3"
     },
     {
+      "home_team": "Athletic Club",
+      "away_team": "Villarreal",
+      "league": "La Liga",
+      "match_date": "2026-04-12T16:00:00+00:00",
+      "home_win_pct": 29.1,
+      "draw_pct": 36.2,
+      "away_win_pct": 34.7,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Espanyol",
+      "league": "La Liga",
+      "match_date": "2026-04-12T16:00:00+00:00",
+      "home_win_pct": 68.9,
+      "draw_pct": 18.4,
+      "away_win_pct": 12.6,
+      "predicted_score": "3-1",
+      "confidence": "HIGH",
+      "model": "v3.3"
+    },
+    {
       "home_team": "Celta Vigo",
       "away_team": "Oviedo",
       "league": "La Liga",
@@ -3125,7 +3161,7 @@
       "away_team": "Sporting CP",
       "league": "Primeira Liga",
       "match_date": "2026-04-12T16:00:00+00:00",
-      "home_win_pct": 34.4,
+      "home_win_pct": 34.3,
       "draw_pct": 32,
       "away_win_pct": 33.6,
       "predicted_score": "2-1",
@@ -3169,30 +3205,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Athletic Club",
-      "away_team": "Villarreal",
-      "league": "La Liga",
-      "match_date": "2026-04-12T16:00:00+00:00",
-      "home_win_pct": 29.1,
-      "draw_pct": 36.2,
-      "away_win_pct": 34.7,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Barcelona",
-      "away_team": "Espanyol",
-      "league": "La Liga",
-      "match_date": "2026-04-12T16:00:00+00:00",
-      "home_win_pct": 68.9,
-      "draw_pct": 18.4,
-      "away_win_pct": 12.6,
-      "predicted_score": "3-1",
-      "confidence": "HIGH",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Lyon",
       "away_team": "Lorient",
       "league": "Ligue 1",
@@ -3226,6 +3238,18 @@
       "away_win_pct": 46.7,
       "predicted_score": "0-1",
       "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Arsenal",
+      "away_team": "Sporting CP",
+      "league": "Champions League",
+      "match_date": "2026-04-14T19:00:00+00:00",
+      "home_win_pct": 79.1,
+      "draw_pct": 11.1,
+      "away_win_pct": 9.8,
+      "predicted_score": "3-0",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -3697,18 +3721,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Angers",
-      "away_team": "Le Havre",
-      "league": "Ligue 1",
-      "match_date": "2026-04-19T15:00:00+00:00",
-      "home_win_pct": 45.7,
-      "draw_pct": 40.3,
-      "away_win_pct": 14,
-      "predicted_score": "1-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Lens",
       "away_team": "Toulouse",
       "league": "Ligue 1",
@@ -3787,7 +3799,7 @@
       "match_date": "2026-04-19T15:00:00+00:00",
       "home_win_pct": 52.2,
       "draw_pct": 22.3,
-      "away_win_pct": 25.5,
+      "away_win_pct": 25.6,
       "predicted_score": "2-1",
       "confidence": "MEDIUM",
       "model": "v3.3"
@@ -3800,6 +3812,18 @@
       "home_win_pct": 51.7,
       "draw_pct": 27.8,
       "away_win_pct": 20.5,
+      "predicted_score": "1-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Angers",
+      "away_team": "Le Havre",
+      "league": "Ligue 1",
+      "match_date": "2026-04-19T15:00:00+00:00",
+      "home_win_pct": 45.7,
+      "draw_pct": 40.3,
+      "away_win_pct": 14,
       "predicted_score": "1-0",
       "confidence": "MEDIUM",
       "model": "v3.3"
@@ -3918,7 +3942,7 @@
       "league": "Primeira Liga",
       "match_date": "2026-04-19T16:00:00+00:00",
       "home_win_pct": 61.3,
-      "draw_pct": 28.5,
+      "draw_pct": 28.4,
       "away_win_pct": 10.3,
       "predicted_score": "2-0",
       "confidence": "HIGH",
@@ -4973,47 +4997,11 @@
       "away_team": "Manchester City",
       "league": "Premier League",
       "match_date": "2026-04-26T13:00:00+00:00",
-      "home_win_pct": 26.4,
+      "home_win_pct": 26.3,
       "draw_pct": 30.9,
       "away_win_pct": 42.8,
       "predicted_score": "1-2",
       "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Paris FC",
-      "away_team": "Lille",
-      "league": "Ligue 1",
-      "match_date": "2026-04-26T15:00:00+00:00",
-      "home_win_pct": 21.5,
-      "draw_pct": 24.4,
-      "away_win_pct": 54.2,
-      "predicted_score": "1-2",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Rennes",
-      "away_team": "Nantes",
-      "league": "Ligue 1",
-      "match_date": "2026-04-26T15:00:00+00:00",
-      "home_win_pct": 58,
-      "draw_pct": 26.2,
-      "away_win_pct": 15.8,
-      "predicted_score": "1-0",
-      "confidence": "HIGH",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Toulouse",
-      "away_team": "Monaco",
-      "league": "Ligue 1",
-      "match_date": "2026-04-26T15:00:00+00:00",
-      "home_win_pct": 49.8,
-      "draw_pct": 25.3,
-      "away_win_pct": 24.9,
-      "predicted_score": "2-1",
-      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -5086,6 +5074,42 @@
       "away_win_pct": 12.4,
       "predicted_score": "3-1",
       "confidence": "HIGH",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Paris FC",
+      "away_team": "Lille",
+      "league": "Ligue 1",
+      "match_date": "2026-04-26T15:00:00+00:00",
+      "home_win_pct": 21.5,
+      "draw_pct": 24.4,
+      "away_win_pct": 54.2,
+      "predicted_score": "1-2",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Rennes",
+      "away_team": "Nantes",
+      "league": "Ligue 1",
+      "match_date": "2026-04-26T15:00:00+00:00",
+      "home_win_pct": 58,
+      "draw_pct": 26.2,
+      "away_win_pct": 15.8,
+      "predicted_score": "1-0",
+      "confidence": "HIGH",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Toulouse",
+      "away_team": "Monaco",
+      "league": "Ligue 1",
+      "match_date": "2026-04-26T15:00:00+00:00",
+      "home_win_pct": 49.8,
+      "draw_pct": 25.3,
+      "away_win_pct": 24.9,
+      "predicted_score": "2-1",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -5657,7 +5681,7 @@
       "away_team": "Manchester City",
       "league": "Premier League",
       "match_date": "2026-05-02T14:00:00+00:00",
-      "home_win_pct": 31.5,
+      "home_win_pct": 31.4,
       "draw_pct": 37.5,
       "away_win_pct": 31.1,
       "predicted_score": "1-1",
@@ -5737,6 +5761,42 @@
       "model": "v3.3"
     },
     {
+      "home_team": "Al-Ettifaq",
+      "away_team": "Al Najma",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 67,
+      "draw_pct": 19.6,
+      "away_win_pct": 13.3,
+      "predicted_score": "2-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Damac",
+      "away_team": "Al Khaleej Saihat",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 28.6,
+      "draw_pct": 36.4,
+      "away_win_pct": 35,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Al-Hazm",
+      "away_team": "Al-Hilal Saudi FC",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 14.3,
+      "draw_pct": 13.9,
+      "away_win_pct": 71.9,
+      "predicted_score": "0-3",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
       "home_team": "Al-Fateh",
       "away_team": "NEOM",
       "league": "Saudi Pro League",
@@ -5805,42 +5865,6 @@
       "draw_pct": 25.4,
       "away_win_pct": 16.2,
       "predicted_score": "1-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Al-Ettifaq",
-      "away_team": "Al Najma",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 67,
-      "draw_pct": 19.6,
-      "away_win_pct": 13.3,
-      "predicted_score": "2-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Damac",
-      "away_team": "Al Khaleej Saihat",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 28.6,
-      "draw_pct": 36.4,
-      "away_win_pct": 35,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Al-Hazm",
-      "away_team": "Al-Hilal Saudi FC",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 14.3,
-      "draw_pct": 13.9,
-      "away_win_pct": 71.9,
-      "predicted_score": "0-3",
       "confidence": "MEDIUM",
       "model": "v3.3"
     },
@@ -7057,102 +7081,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Alverca",
-      "away_team": "Estoril",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 26,
-      "draw_pct": 31.7,
-      "away_win_pct": 42.3,
-      "predicted_score": "1-2",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Benfica",
-      "away_team": "SC Braga",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 24.6,
-      "draw_pct": 42,
-      "away_win_pct": 33.4,
-      "predicted_score": "1-1",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Estrela",
-      "away_team": "Famalicao",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 25.8,
-      "draw_pct": 41.1,
-      "away_win_pct": 33.1,
-      "predicted_score": "0-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "GIL Vicente",
-      "away_team": "Arouca",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 55.8,
-      "draw_pct": 30.4,
-      "away_win_pct": 13.8,
-      "predicted_score": "2-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Rio Ave",
-      "away_team": "Sporting CP",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 31.2,
-      "draw_pct": 31.3,
-      "away_win_pct": 37.5,
-      "predicted_score": "1-2",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Santa Clara",
-      "away_team": "Nacional",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 30.2,
-      "draw_pct": 44.2,
-      "away_win_pct": 25.6,
-      "predicted_score": "0-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Tondela",
-      "away_team": "Moreirense",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 22.4,
-      "draw_pct": 42.7,
-      "away_win_pct": 34.9,
-      "predicted_score": "0-0",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Guimaraes",
-      "away_team": "Casa Pia",
-      "league": "Primeira Liga",
-      "match_date": "2026-05-10T16:00:00+00:00",
-      "home_win_pct": 37.6,
-      "draw_pct": 44.2,
-      "away_win_pct": 18.2,
-      "predicted_score": "1-1",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Athletic Club",
       "away_team": "Valencia",
       "league": "La Liga",
@@ -7282,6 +7210,102 @@
       "away_win_pct": 72.1,
       "predicted_score": "0-3",
       "confidence": "HIGH",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Alverca",
+      "away_team": "Estoril",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 26,
+      "draw_pct": 31.7,
+      "away_win_pct": 42.3,
+      "predicted_score": "1-2",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Benfica",
+      "away_team": "SC Braga",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 24.6,
+      "draw_pct": 42,
+      "away_win_pct": 33.4,
+      "predicted_score": "1-1",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Estrela",
+      "away_team": "Famalicao",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 25.8,
+      "draw_pct": 41.1,
+      "away_win_pct": 33.1,
+      "predicted_score": "0-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "GIL Vicente",
+      "away_team": "Arouca",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 55.8,
+      "draw_pct": 30.4,
+      "away_win_pct": 13.8,
+      "predicted_score": "2-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Rio Ave",
+      "away_team": "Sporting CP",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 31.2,
+      "draw_pct": 31.3,
+      "away_win_pct": 37.5,
+      "predicted_score": "1-2",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Santa Clara",
+      "away_team": "Nacional",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 30.2,
+      "draw_pct": 44.2,
+      "away_win_pct": 25.6,
+      "predicted_score": "0-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Tondela",
+      "away_team": "Moreirense",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 22.4,
+      "draw_pct": 42.7,
+      "away_win_pct": 34.9,
+      "predicted_score": "0-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Guimaraes",
+      "away_team": "Casa Pia",
+      "league": "Primeira Liga",
+      "match_date": "2026-05-10T16:00:00+00:00",
+      "home_win_pct": 37.6,
+      "draw_pct": 44.2,
+      "away_win_pct": 18.2,
+      "predicted_score": "1-1",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -7837,6 +7861,42 @@
       "model": "v3.3"
     },
     {
+      "home_team": "AS Roma",
+      "away_team": "Lazio",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 41.5,
+      "draw_pct": 43.1,
+      "away_win_pct": 15.5,
+      "predicted_score": "0-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Sassuolo",
+      "away_team": "Lecce",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 39.3,
+      "draw_pct": 36.5,
+      "away_win_pct": 24.2,
+      "predicted_score": "1-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Udinese",
+      "away_team": "Cremonese",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 37.4,
+      "draw_pct": 41.1,
+      "away_win_pct": 21.6,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
       "home_team": "Atalanta",
       "away_team": "Bologna",
       "league": "Serie A",
@@ -7921,42 +7981,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "AS Roma",
-      "away_team": "Lazio",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 41.5,
-      "draw_pct": 43.1,
-      "away_win_pct": 15.5,
-      "predicted_score": "0-0",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Sassuolo",
-      "away_team": "Lecce",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 39.3,
-      "draw_pct": 36.5,
-      "away_win_pct": 24.2,
-      "predicted_score": "1-0",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Udinese",
-      "away_team": "Cremonese",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 37.4,
-      "draw_pct": 41.1,
-      "away_win_pct": 21.6,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Arsenal",
       "away_team": "Burnley",
       "league": "Premier League",
@@ -7987,7 +8011,7 @@
       "match_date": "2026-05-17T14:00:00+00:00",
       "home_win_pct": 44,
       "draw_pct": 34.3,
-      "away_win_pct": 21.6,
+      "away_win_pct": 21.7,
       "predicted_score": "2-1",
       "confidence": "MEDIUM",
       "model": "v3.3"
@@ -8297,7 +8321,7 @@
       "away_team": "GIL Vicente",
       "league": "Primeira Liga",
       "match_date": "2026-05-17T16:00:00+00:00",
-      "home_win_pct": 59.9,
+      "home_win_pct": 60,
       "draw_pct": 27.9,
       "away_win_pct": 12.1,
       "predicted_score": "2-0",
@@ -8773,6 +8797,6 @@
       "model": "v3.3"
     }
   ],
-  "exported_at": "2026-03-18T08:28:26.807Z",
-  "count": 731
+  "exported_at": "2026-03-18T12:15:22.475Z",
+  "count": 733
 }
