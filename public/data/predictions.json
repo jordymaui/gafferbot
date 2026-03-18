@@ -685,30 +685,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Leeds",
-      "away_team": "Brentford",
-      "league": "Premier League",
-      "match_date": "2026-03-21T20:00:00+00:00",
-      "home_win_pct": 33.4,
-      "draw_pct": 39.8,
-      "away_win_pct": 26.8,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "PEC Zwolle",
-      "away_team": "NAC Breda",
-      "league": "Eredivisie",
-      "match_date": "2026-03-21T20:00:00+00:00",
-      "home_win_pct": 44.2,
-      "draw_pct": 37.9,
-      "away_win_pct": 17.9,
-      "predicted_score": "1-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Nice",
       "away_team": "Paris Saint Germain",
       "league": "Ligue 1",
@@ -730,6 +706,30 @@
       "away_win_pct": 19.4,
       "predicted_score": "2-1",
       "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Leeds",
+      "away_team": "Brentford",
+      "league": "Premier League",
+      "match_date": "2026-03-21T20:00:00+00:00",
+      "home_win_pct": 33.4,
+      "draw_pct": 39.8,
+      "away_win_pct": 26.8,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "PEC Zwolle",
+      "away_team": "NAC Breda",
+      "league": "Eredivisie",
+      "match_date": "2026-03-21T20:00:00+00:00",
+      "home_win_pct": 44.2,
+      "draw_pct": 37.9,
+      "away_win_pct": 17.9,
+      "predicted_score": "1-0",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -1585,18 +1585,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "NEOM",
-      "away_team": "Al-Fayha",
-      "league": "Saudi Pro League",
-      "match_date": "2026-04-04T16:30:00+00:00",
-      "home_win_pct": 34,
-      "draw_pct": 31.1,
-      "away_win_pct": 35,
-      "predicted_score": "1-2",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Alaves",
       "away_team": "Osasuna",
       "league": "La Liga",
@@ -1606,6 +1594,18 @@
       "away_win_pct": 19.3,
       "predicted_score": "0-0",
       "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "NEOM",
+      "away_team": "Al-Fayha",
+      "league": "Saudi Pro League",
+      "match_date": "2026-04-04T16:30:00+00:00",
+      "home_win_pct": 34,
+      "draw_pct": 31.1,
+      "away_win_pct": 35,
+      "predicted_score": "1-2",
+      "confidence": "LOW",
       "model": "v3.3"
     },
     {
@@ -2785,42 +2785,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Atalanta",
-      "away_team": "Juventus",
-      "league": "Serie A",
-      "match_date": "2026-04-12T13:00:00+00:00",
-      "home_win_pct": 34.2,
-      "draw_pct": 39.1,
-      "away_win_pct": 26.6,
-      "predicted_score": "2-2",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Bologna",
-      "away_team": "Lecce",
-      "league": "Serie A",
-      "match_date": "2026-04-12T13:00:00+00:00",
-      "home_win_pct": 36.3,
-      "draw_pct": 42.9,
-      "away_win_pct": 20.8,
-      "predicted_score": "0-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Cagliari",
-      "away_team": "Cremonese",
-      "league": "Serie A",
-      "match_date": "2026-04-12T13:00:00+00:00",
-      "home_win_pct": 39.1,
-      "draw_pct": 40.4,
-      "away_win_pct": 20.5,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Como",
       "away_team": "Inter",
       "league": "Serie A",
@@ -2913,6 +2877,42 @@
       "draw_pct": 30.1,
       "away_win_pct": 20.8,
       "predicted_score": "2-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Atalanta",
+      "away_team": "Juventus",
+      "league": "Serie A",
+      "match_date": "2026-04-12T13:00:00+00:00",
+      "home_win_pct": 34.2,
+      "draw_pct": 39.1,
+      "away_win_pct": 26.6,
+      "predicted_score": "2-2",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Bologna",
+      "away_team": "Lecce",
+      "league": "Serie A",
+      "match_date": "2026-04-12T13:00:00+00:00",
+      "home_win_pct": 36.3,
+      "draw_pct": 42.9,
+      "away_win_pct": 20.8,
+      "predicted_score": "0-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Cagliari",
+      "away_team": "Cremonese",
+      "league": "Serie A",
+      "match_date": "2026-04-12T13:00:00+00:00",
+      "home_win_pct": 39.1,
+      "draw_pct": 40.4,
+      "away_win_pct": 20.5,
+      "predicted_score": "1-1",
       "confidence": "LOW",
       "model": "v3.3"
     },
@@ -3721,6 +3721,18 @@
       "model": "v3.3"
     },
     {
+      "home_team": "Angers",
+      "away_team": "Le Havre",
+      "league": "Ligue 1",
+      "match_date": "2026-04-19T15:00:00+00:00",
+      "home_win_pct": 45.7,
+      "draw_pct": 40.3,
+      "away_win_pct": 14,
+      "predicted_score": "1-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
       "home_team": "Lens",
       "away_team": "Toulouse",
       "league": "Ligue 1",
@@ -3812,18 +3824,6 @@
       "home_win_pct": 51.7,
       "draw_pct": 27.8,
       "away_win_pct": 20.5,
-      "predicted_score": "1-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Angers",
-      "away_team": "Le Havre",
-      "league": "Ligue 1",
-      "match_date": "2026-04-19T15:00:00+00:00",
-      "home_win_pct": 45.7,
-      "draw_pct": 40.3,
-      "away_win_pct": 14,
       "predicted_score": "1-0",
       "confidence": "MEDIUM",
       "model": "v3.3"
@@ -4873,54 +4873,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Bologna",
-      "away_team": "AS Roma",
-      "league": "Serie A",
-      "match_date": "2026-04-26T13:00:00+00:00",
-      "home_win_pct": 24.5,
-      "draw_pct": 41,
-      "away_win_pct": 34.6,
-      "predicted_score": "0-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Cagliari",
-      "away_team": "Atalanta",
-      "league": "Serie A",
-      "match_date": "2026-04-26T13:00:00+00:00",
-      "home_win_pct": 35.7,
-      "draw_pct": 39.5,
-      "away_win_pct": 24.8,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Fiorentina",
-      "away_team": "Sassuolo",
-      "league": "Serie A",
-      "match_date": "2026-04-26T13:00:00+00:00",
-      "home_win_pct": 28.6,
-      "draw_pct": 35.9,
-      "away_win_pct": 35.6,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Genoa",
-      "away_team": "Como",
-      "league": "Serie A",
-      "match_date": "2026-04-26T13:00:00+00:00",
-      "home_win_pct": 19.4,
-      "draw_pct": 35.8,
-      "away_win_pct": 44.8,
-      "predicted_score": "0-1",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Lazio",
       "away_team": "Udinese",
       "league": "Serie A",
@@ -5002,6 +4954,54 @@
       "away_win_pct": 42.8,
       "predicted_score": "1-2",
       "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Bologna",
+      "away_team": "AS Roma",
+      "league": "Serie A",
+      "match_date": "2026-04-26T13:00:00+00:00",
+      "home_win_pct": 24.5,
+      "draw_pct": 41,
+      "away_win_pct": 34.6,
+      "predicted_score": "0-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Cagliari",
+      "away_team": "Atalanta",
+      "league": "Serie A",
+      "match_date": "2026-04-26T13:00:00+00:00",
+      "home_win_pct": 35.7,
+      "draw_pct": 39.5,
+      "away_win_pct": 24.8,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Fiorentina",
+      "away_team": "Sassuolo",
+      "league": "Serie A",
+      "match_date": "2026-04-26T13:00:00+00:00",
+      "home_win_pct": 28.6,
+      "draw_pct": 35.9,
+      "away_win_pct": 35.6,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Genoa",
+      "away_team": "Como",
+      "league": "Serie A",
+      "match_date": "2026-04-26T13:00:00+00:00",
+      "home_win_pct": 19.4,
+      "draw_pct": 35.8,
+      "away_win_pct": 44.8,
+      "predicted_score": "0-1",
+      "confidence": "MEDIUM",
       "model": "v3.3"
     },
     {
@@ -5761,42 +5761,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "Al-Ettifaq",
-      "away_team": "Al Najma",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 67,
-      "draw_pct": 19.6,
-      "away_win_pct": 13.3,
-      "predicted_score": "2-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Damac",
-      "away_team": "Al Khaleej Saihat",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 28.6,
-      "draw_pct": 36.4,
-      "away_win_pct": 35,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Al-Hazm",
-      "away_team": "Al-Hilal Saudi FC",
-      "league": "Saudi Pro League",
-      "match_date": "2026-05-02T17:00:00+00:00",
-      "home_win_pct": 14.3,
-      "draw_pct": 13.9,
-      "away_win_pct": 71.9,
-      "predicted_score": "0-3",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Al-Fateh",
       "away_team": "NEOM",
       "league": "Saudi Pro League",
@@ -5865,6 +5829,42 @@
       "draw_pct": 25.4,
       "away_win_pct": 16.2,
       "predicted_score": "1-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Al-Ettifaq",
+      "away_team": "Al Najma",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 67,
+      "draw_pct": 19.6,
+      "away_win_pct": 13.3,
+      "predicted_score": "2-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Damac",
+      "away_team": "Al Khaleej Saihat",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 28.6,
+      "draw_pct": 36.4,
+      "away_win_pct": 35,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Al-Hazm",
+      "away_team": "Al-Hilal Saudi FC",
+      "league": "Saudi Pro League",
+      "match_date": "2026-05-02T17:00:00+00:00",
+      "home_win_pct": 14.3,
+      "draw_pct": 13.9,
+      "away_win_pct": 71.9,
+      "predicted_score": "0-3",
       "confidence": "MEDIUM",
       "model": "v3.3"
     },
@@ -6973,6 +6973,54 @@
       "model": "v3.3"
     },
     {
+      "home_team": "NAC Breda",
+      "away_team": "Heerenveen",
+      "league": "Eredivisie",
+      "match_date": "2026-05-10T14:45:00+00:00",
+      "home_win_pct": 27.6,
+      "draw_pct": 31.7,
+      "away_win_pct": 40.7,
+      "predicted_score": "1-2",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Fortuna Sittard",
+      "away_team": "PEC Zwolle",
+      "league": "Eredivisie",
+      "match_date": "2026-05-10T14:45:00+00:00",
+      "home_win_pct": 45.7,
+      "draw_pct": 29.8,
+      "away_win_pct": 24.4,
+      "predicted_score": "2-1",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Telstar",
+      "away_team": "Heracles",
+      "league": "Eredivisie",
+      "match_date": "2026-05-10T14:45:00+00:00",
+      "home_win_pct": 62.9,
+      "draw_pct": 22.4,
+      "away_win_pct": 14.6,
+      "predicted_score": "2-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Twente",
+      "away_team": "Sparta Rotterdam",
+      "league": "Eredivisie",
+      "match_date": "2026-05-10T14:45:00+00:00",
+      "home_win_pct": 50.7,
+      "draw_pct": 30.8,
+      "away_win_pct": 18.6,
+      "predicted_score": "1-0",
+      "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
       "home_team": "Ajax",
       "away_team": "Utrecht",
       "league": "Eredivisie",
@@ -7029,54 +7077,6 @@
       "draw_pct": 31.7,
       "away_win_pct": 36.9,
       "predicted_score": "1-2",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "NAC Breda",
-      "away_team": "Heerenveen",
-      "league": "Eredivisie",
-      "match_date": "2026-05-10T14:45:00+00:00",
-      "home_win_pct": 27.6,
-      "draw_pct": 31.7,
-      "away_win_pct": 40.7,
-      "predicted_score": "1-2",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Fortuna Sittard",
-      "away_team": "PEC Zwolle",
-      "league": "Eredivisie",
-      "match_date": "2026-05-10T14:45:00+00:00",
-      "home_win_pct": 45.7,
-      "draw_pct": 29.8,
-      "away_win_pct": 24.4,
-      "predicted_score": "2-1",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Telstar",
-      "away_team": "Heracles",
-      "league": "Eredivisie",
-      "match_date": "2026-05-10T14:45:00+00:00",
-      "home_win_pct": 62.9,
-      "draw_pct": 22.4,
-      "away_win_pct": 14.6,
-      "predicted_score": "2-0",
-      "confidence": "MEDIUM",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Twente",
-      "away_team": "Sparta Rotterdam",
-      "league": "Eredivisie",
-      "match_date": "2026-05-10T14:45:00+00:00",
-      "home_win_pct": 50.7,
-      "draw_pct": 30.8,
-      "away_win_pct": 18.6,
-      "predicted_score": "1-0",
       "confidence": "MEDIUM",
       "model": "v3.3"
     },
@@ -7861,42 +7861,6 @@
       "model": "v3.3"
     },
     {
-      "home_team": "AS Roma",
-      "away_team": "Lazio",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 41.5,
-      "draw_pct": 43.1,
-      "away_win_pct": 15.5,
-      "predicted_score": "0-0",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Sassuolo",
-      "away_team": "Lecce",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 39.3,
-      "draw_pct": 36.5,
-      "away_win_pct": 24.2,
-      "predicted_score": "1-0",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
-      "home_team": "Udinese",
-      "away_team": "Cremonese",
-      "league": "Serie A",
-      "match_date": "2026-05-17T13:00:00+00:00",
-      "home_win_pct": 37.4,
-      "draw_pct": 41.1,
-      "away_win_pct": 21.6,
-      "predicted_score": "1-1",
-      "confidence": "LOW",
-      "model": "v3.3"
-    },
-    {
       "home_team": "Atalanta",
       "away_team": "Bologna",
       "league": "Serie A",
@@ -7978,6 +7942,42 @@
       "away_win_pct": 52.4,
       "predicted_score": "0-1",
       "confidence": "MEDIUM",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "AS Roma",
+      "away_team": "Lazio",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 41.5,
+      "draw_pct": 43.1,
+      "away_win_pct": 15.5,
+      "predicted_score": "0-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Sassuolo",
+      "away_team": "Lecce",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 39.3,
+      "draw_pct": 36.5,
+      "away_win_pct": 24.2,
+      "predicted_score": "1-0",
+      "confidence": "LOW",
+      "model": "v3.3"
+    },
+    {
+      "home_team": "Udinese",
+      "away_team": "Cremonese",
+      "league": "Serie A",
+      "match_date": "2026-05-17T13:00:00+00:00",
+      "home_win_pct": 37.4,
+      "draw_pct": 41.1,
+      "away_win_pct": 21.6,
+      "predicted_score": "1-1",
+      "confidence": "LOW",
       "model": "v3.3"
     },
     {
@@ -8797,6 +8797,6 @@
       "model": "v3.3"
     }
   ],
-  "exported_at": "2026-03-18T12:15:22.475Z",
+  "exported_at": "2026-03-18T16:21:43.921Z",
   "count": 733
 }
